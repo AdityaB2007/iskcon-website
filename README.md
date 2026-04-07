@@ -8,7 +8,8 @@ The purpose of this website is to provide a simple, welcoming, and informative p
 
 ## 🌿 About the Center
 
-New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by Srila Prabhupada.
+New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by 
+A.C. Bhaktivedanta Swami Srila Prabhupada.
 
 The temple hosts:
 - Kirtan (congregational chanting of the Holy Name)
