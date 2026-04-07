@@ -42,9 +42,12 @@ This website is currently in early development.
 ```
 new-vraja-dham/
 │
-├── index.html        # Home page
-├── styles.css        # Styling
-├── README.md         # Project documentation
+├── index.html          # Homepage
+├── about.html          # About the temple and philosophy
+├── programs.html       # Events and weekly schedule
+├── contact.html        # Contact info and visiting details
+├── styles.css          # Styling
+├── README.md           # Project documentation
 ├── LICENSE
 │
 └── images/
