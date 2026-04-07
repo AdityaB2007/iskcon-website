@@ -62,8 +62,8 @@ new-vraja-dham/
 
 This project is intentionally built using simple, reliable technologies:
 
-- HTML  
-- CSS  
+- Hypertext Markup Language (HTML)
+- Cascading Style Sheets (CSS)
 
 No complex frameworks are currently in use, in order to keep the site lightweight, maintainable, and accessible.
 
