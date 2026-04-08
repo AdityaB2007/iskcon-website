@@ -26,6 +26,7 @@ This website is currently in early development.
 
 ### Current Features
 - Basic homepage (`index.html`)
+- About page (`about.html`)
 - Custom styling (`styles.css`)
 - Image assets (ISKCON Logo, Srila Prabhupada)
 
