@@ -31,7 +31,6 @@ This website is currently in early development.
 - Image assets (ISKCON Logo, Srila Prabhupada)
 
 ### Planned Additions
-- About page
 - Events / Programs page
 - Contact / Visit page
 - A photo gallery of day-to-day activities
