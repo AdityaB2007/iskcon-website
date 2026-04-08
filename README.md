@@ -22,7 +22,7 @@ The temple hosts:
 
 ## 🚧 Project Status
 
-This website is currently in early development and is still a draft. It is NOT ready for production/deployment yet.
+This website is currently in development and serves as a rough draft. It is NOT ready for production/deployment yet.
 
 ---
 
