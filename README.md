@@ -22,19 +22,7 @@ The temple hosts:
 
 ## 🚧 Project Status
 
-This website is currently in early development.
-
-### Current Features
-- Basic homepage (`index.html`)
-- About page (`about.html`)
-- Custom styling (`styles.css`)
-- Image assets (ISKCON Logo, Srila Prabhupada)
-
-### Planned Additions
-- Events / Programs page
-- Contact / Visit page
-- A photo gallery of day-to-day activities
-- Improved layout and responsiveness
+This website is currently in early development and is still a draft. It is NOT ready for production/deployment yet.
 
 ---
 
@@ -43,17 +31,18 @@ This website is currently in early development.
 ```
 new-vraja-dham/
 │
-├── index.html          # Homepage
-├── about.html          # About the temple and philosophy
-├── programs.html       # Events and weekly schedule
-├── contact.html        # Contact info and visiting details
-├── styles.css          # Styling
-├── README.md           # Project documentation
+├── index.html
+├── about.html
+├── programs.html
+├── contact.html
+├── styles.css
+├── README.md
 ├── LICENSE
 │
 └── images/
     ├── logo.png
-    └── srila-prabhupada.png
+    ├── srila-prabhupada.png
+    └── prabhupada-association.png
 ```
 
 ---
