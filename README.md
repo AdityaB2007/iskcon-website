@@ -92,7 +92,7 @@ Suggestions, improvements, and feedback are welcome.
 ## 🌸 Acknowledgements
 
 - All glories to Srila Prabhupada and the devotees who have dedicated their lives to spreading the teachings of Lord Krishna.
-- Thank you to Gavin Couch (@GavinCough, LSU '28) and Shyam Sundar Das (@shybarelycodes, LSU '28) for their support with CSS styling.
+- Thank you to Gavin Couch (@GavinCouch, LSU '28) and Shyam Sundar Das (@shybarelycodes, LSU '28) for their support with CSS styling.
 
 ---
 
