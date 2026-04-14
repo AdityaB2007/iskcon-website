@@ -92,7 +92,7 @@ Suggestions, improvements, and feedback are welcome.
 ## 🌸 Acknowledgements
 
 - All glories to Srila Prabhupada and the devotees who have dedicated their lives to spreading the teachings of Lord Krishna.
-- I am grateful to [Gavin Couch](https://github.com/GavinCouch) and [Shyam Sundar Das](https://github.com/shybarelycodes) for their guidance and moral support as I learned frontend development while working on this website.
+- I am grateful to [Gavin Couch](https://github.com/GavinCouch) (LSU '28) and [Shyam Sundar Das](https://github.com/shybarelycodes) (LSU '28) for their guidance and moral support as I learned frontend development while working on this website.
 
 ---
 
