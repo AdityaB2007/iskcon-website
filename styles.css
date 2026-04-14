@@ -23,3 +23,40 @@ body {
   padding: 16px 32px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* space between image and text */
+}
+
+.logo img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+.logo span {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.navbar ul {
+  list-style: none; /* removes bullet points */
+  display: flex;
+  gap: 20px; /* spacing between links */
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none; /* removes underline */
+  font-weight: 600;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.navbar a:hover,
+.navbar a.active {
+  text-decoration: underline;
+  opacity: 0.9;
+}
