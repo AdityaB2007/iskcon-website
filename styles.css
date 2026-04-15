@@ -193,17 +193,22 @@ body {
 
 footer {
   margin-top: auto;
-  background-color: #5a3e1f;
-  color: #f7efe2;
+  background-color: #6b4723;
+  color: #f8efe2;
   text-align: center;
   padding: 22px 16px;
   font-size: 0.95rem;
-  border-top: 1px solid #7a5e37;
+  border-top: 1px solid #8a633c;
 }
 
 footer a {
-  color: #f3d7ab;
+  color: #f1c98a;
   text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: #ffffff;
 }
 
 @media (max-width: 768px) {
