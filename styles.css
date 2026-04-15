@@ -180,3 +180,17 @@ body {
   border-radius: 16px;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
 }
+
+footer {
+  margin-top: auto; /* helps footer stay lower on shorter pages */
+  background-color: #c4681a;
+  color: white;
+  text-align: center;
+  padding: 18px 12px;
+  font-size: 0.95rem;
+}
+
+footer a {
+  color: white;
+  text-decoration: underline;
+}
