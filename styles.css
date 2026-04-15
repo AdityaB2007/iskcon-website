@@ -194,3 +194,49 @@ footer a {
   color: white;
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+    padding: 16px 20px;
+  }
+
+  .navbar ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 24px;
+  }
+
+  .hero-text p {
+    max-width: 100%;
+  }
+
+  .hero-image img {
+    max-width: 280px;
+  }
+
+  .about,
+  .contact,
+  .programs {
+    margin: 24px 16px;
+    padding: 28px 20px;
+  }
+
+  .about h1,
+  .contact h1,
+  .programs h1 {
+    font-size: 2rem;
+  }
+
+  .about h2,
+  .programs h2 {
+    font-size: 1.3rem;
+  }
+}
