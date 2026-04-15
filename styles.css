@@ -84,23 +84,23 @@ body {
 }
 
 .hero-text h1 {
-  font-size: 3rem;
-  color: #c4681a;
-  margin-bottom: 12px;
-  line-height: 1.15;
+  font-size: 2.9rem;
+  color: #9b5520;
+  margin-bottom: 14px;
+  line-height: 1.12;
 }
 
 .hero-text h2 {
-  font-size: 1.5rem;
-  color: #5d4c3b;
+  font-size: 1.35rem;
+  color: #6a5744;
   margin-bottom: 18px;
   font-weight: 600;
 }
 
 .hero-text p {
   max-width: 600px;
-  font-size: 1.08rem;
-  color: #40372f;
+  font-size: 1.04rem;
+  color: #4a4036;
 }
 
 .hero-image {
