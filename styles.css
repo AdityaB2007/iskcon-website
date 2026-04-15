@@ -45,22 +45,23 @@ body {
 }
 
 .navbar ul {
-  list-style: none; /* removes bullet points */
+  list-style: none;
   display: flex;
-  gap: 20px; /* spacing between links */
+  gap: 14px;
 }
 
 .navbar a {
   color: #5a3e1f;
-  text-decoration: none; /* removes underline */
+  text-decoration: none;
   font-weight: 600;
-  transition: color 0.2s ease, opacity 0.2s ease;
+  padding: 6px 10px;
+  border-radius: 8px;
+  transition: background-color 0.2 ease, color 0.2 ease;
 }
 
 .navbar a:hover,
 .navbar a.active {
-  text-decoration: underline;
-  opacity: 0.9;
+  background-color: #f1e4cf;
 }
 
 .hero {
