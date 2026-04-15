@@ -8,42 +8,61 @@ The purpose of this website is to provide a simple, welcoming, and informative p
 
 ## 🌿 About the Center
 
-New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by 
+New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by  
 A.C. Bhaktivedanta Swami Srila Prabhupada.
 
 The temple hosts:
 - Kirtan (congregational chanting of the Holy Name)
 - Discourses on texts such as Bhagavad-gītā and Śrīmad-Bhāgavatam
 - Instrumental lessons
-- Various festivals and community gatherings
+- Festivals and community gatherings
 - Prasadam (sanctified vegetarian meals offered to the Lord)
 
 ---
 
 ## 🚧 Project Status
 
-This website is currently in development and serves as a rough draft. It is NOT ready for production/deployment yet.
+This website is currently in active development and is **not yet production-ready**.
+
+The current version focuses on building a clean layout, consistent design system, and foundational structure using HTML and CSS.
+
+---
+
+## 🎨 Design Approach
+
+This project emphasizes:
+
+- A calm, devotional visual style using warm earthy tones  
+- Consistent spacing, layout rhythm, and typography  
+- Minimalism and readability over visual clutter  
+- A homepage-focused visual experience, with simpler internal pages  
+- Gradual refinement of UI/UX through iterative improvements  
 
 ---
 
 ## 📁 Project Structure
-
-```
 new-vraja-dham/
 │
 ├── index.html
 ├── about.html
 ├── programs.html
+├── resources.html
 ├── contact.html
 ├── styles.css
 ├── README.md
 ├── LICENSE
 │
-└── images/
-    ├── logo.png
-    ├── srila-prabhupada.png
-    └── prabhupada-association.png
-```
+├── images/
+│ ├── logo.png
+│ ├── srila-prabhupada.png
+│ └── prabhupada-association.png
+│
+├── audio/
+│ └── (kirtan / chanting audio files)
+│
+└── videos/
+└── (japa / lecture video files)
+
 
 ---
 
@@ -51,10 +70,13 @@ new-vraja-dham/
 
 This project is intentionally built using simple, reliable technologies:
 
-- Hypertext Markup Language (HTML)
-- Cascading Style Sheets (CSS)
+- HTML (structure)
+- CSS (layout and styling)
 
-No complex frameworks are currently in use, in order to keep the site lightweight, maintainable, and accessible.
+No frameworks are used, in order to:
+- strengthen foundational understanding  
+- keep the site lightweight and fast  
+- maintain full control over design decisions  
 
 ---
 
@@ -62,11 +84,9 @@ No complex frameworks are currently in use, in order to keep the site lightweigh
 
 No setup is required.
 
-Simply open the homepage in your browser:
+Simply open the homepage in your browser: <br>
+`index.html`
 
-```
-index.html
-```
 
 ---
 
@@ -74,10 +94,24 @@ index.html
 
 The website aims to:
 
-- Provide clear information about the temple's programs and events  
+- Provide clear information about temple programs and events  
 - Offer a welcoming introduction to Krishna consciousness  
-- Make it easy for visitors to learn, attend, and get involved  
-- Maintain a clean and distraction-free user experience (UX)
+- Include helpful resources such as audio and video content  
+- Create a peaceful and accessible user experience  
+- Serve as a long-term platform for community engagement  
+
+---
+
+## 📚 Learning Objectives
+
+This project is also a hands-on learning experience in frontend development.
+
+Focus areas include:
+- Writing clean, semantic HTML  
+- Building layouts using Flexbox  
+- Designing consistent spacing systems  
+- Creating reusable component styles  
+- Understanding how design decisions affect user experience (UX)
 
 ---
 
@@ -92,7 +126,7 @@ Suggestions, improvements, and feedback are welcome.
 ## 🌸 Acknowledgements
 
 - All glories to Srila Prabhupada and the devotees who have dedicated their lives to spreading the teachings of Lord Krishna.
-- I am grateful to [Gavin Couch](https://github.com/GavinCouch) (LSU '28) and [Shyam Sundar Das](https://github.com/shybarelycodes) (LSU '28) for their guidance and moral support as I learned frontend development while working on this website.
+- I am grateful to [Gavin Couch](https://github.com/GavinCouch) (LSU '28) and [Shyam Sundar Das](https://github.com/shybarelycodes) (LSU '28) for their guidance and support as I learned frontend development while working on this website.
 
 ---
 
