@@ -121,11 +121,12 @@ body {
 .contact,
 .programs {
   max-width: 900px;
-  margin: 40px auto;
-  padding: 40px 30px;
-  background-color: #fffaf1;
-  border-radius: 18px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  margin: 42px auto;
+  padding: 42px 34px;
+  background-color: #fffdf8;
+  border: 1px solid #eadcc3;
+  border-radius: 22px;
+  box-shadow: 0 12px 26px rgba(70, 52, 30, 0.06);
 }
 
 .about h1,
