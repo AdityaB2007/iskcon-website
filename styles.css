@@ -19,29 +19,28 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-
   background-color: #fffaf1;
   padding: 18px 36px;
-
   border-bottom: 1px solid #e6d5b8;
 }
 
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px; /* space between image and text */
+  gap: 12px;
 }
 
 .logo img {
-  width: 42px;
-  height: 42px;
+  width: 46px;
+  height: 46px;
   object-fit: contain;
 }
 
 .logo span {
   color: #5a3e1f;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
+  letter-spacing: 0.2px;
 }
 
 .navbar ul {
