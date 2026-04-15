@@ -41,6 +41,8 @@ This project emphasizes:
 ---
 
 ## 📁 Project Structure
+
+```
 new-vraja-dham/
 │
 ├── index.html
@@ -53,16 +55,16 @@ new-vraja-dham/
 ├── LICENSE
 │
 ├── images/
-│ ├── logo.png
-│ ├── srila-prabhupada.png
-│ └── prabhupada-association.png
+│   ├── logo.png
+│   ├── srila-prabhupada.png
+│   └── prabhupada-association.png
 │
 ├── audio/
-│ └── (kirtan / chanting audio files)
+│   └── (kirtan / chanting audio files)
 │
 └── videos/
-└── (japa / lecture video files)
-
+    └── (japa / lecture video files)
+```
 
 ---
 
