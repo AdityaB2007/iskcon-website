@@ -5,9 +5,9 @@
 }
 
 body {
-  font-family: 'Verdana', 'sans-serif';
-  background-color: #fdf6e8;
-  color: #2f2a24;
+  font-family: 'Verdana', sans-serif;
+  background-color: #f7f1e6;
+  color: #2b2621;
   line-height: 1.7;
   min-height: 100vh;
   display: flex;
