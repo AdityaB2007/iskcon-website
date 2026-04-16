@@ -28,7 +28,7 @@ The current version focuses on building a clean layout, consistent design system
 
 ---
 
-## 🎨 Design Approach
+## Design Approach
 
 This project emphasizes:
 
