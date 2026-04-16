@@ -1,4 +1,4 @@
-## 🛕 New Vraja Dham Website
+## New Vraja Dham Website
 
 This repository contains the official website for **New Vraja Dham** (est. 2025), a local ISKCON temple based in Baton Rouge, Louisiana.
 
@@ -6,7 +6,7 @@ The purpose of this website is to provide a simple, welcoming, and informative p
 
 ---
 
-## 🌿 About the Center
+## About the Center
 
 New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by  
 A.C. Bhaktivedanta Swami Srila Prabhupada.
@@ -20,7 +20,7 @@ The temple hosts:
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 This website is currently in active development and is **not yet production-ready**.
 
@@ -40,7 +40,7 @@ This project emphasizes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 new-vraja-dham/
@@ -68,7 +68,7 @@ new-vraja-dham/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 This project is intentionally built using simple, reliable technologies:
 
@@ -82,7 +82,7 @@ No frameworks are used, in order to:
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 No setup is required.
 
@@ -92,7 +92,7 @@ Simply open the homepage in your browser: <br>
 
 ---
 
-## 🎯 Goals
+## Goals
 
 The website aims to:
 
@@ -104,20 +104,20 @@ The website aims to:
 
 ---
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This project is also a hands-on learning experience in frontend development.
 
 Focus areas include:
 - Writing clean, semantic HTML  
-- Building layouts using Flexbox  
+- Building CSS layouts using Flexbox  
 - Designing consistent spacing systems  
 - Creating reusable component styles  
 - Understanding how design decisions affect user experience (UX)
 
 ---
 
-## 🙏 Contributing
+## Contributing
 
 This project is being developed as a service effort for the local devotional community.
 
@@ -125,13 +125,13 @@ Suggestions, improvements, and feedback are welcome.
 
 ---
 
-## 🌸 Acknowledgements
+## Acknowledgements
 
 - All glories to Srila Prabhupada and the devotees who have dedicated their lives to spreading the teachings of Lord Krishna.
 - I am grateful to [Gavin Couch](https://github.com/GavinCouch) (LSU '28) and [Shyam Sundar Das](https://github.com/shybarelycodes) (LSU '28) for their guidance and support as I learned frontend development while working on this website.
 
 ---
 
-## 🕉️ License
+## License
 
 This project is licensed under the terms specified in the `LICENSE` file.
