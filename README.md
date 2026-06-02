@@ -40,34 +40,6 @@ This project emphasizes:
 
 ---
 
-## Project Structure
-
-```
-new-vraja-dham/
-│
-├── index.html
-├── about.html
-├── programs.html
-├── resources.html
-├── contact.html
-├── styles.css
-├── README.md
-├── LICENSE
-│
-├── images/
-│   ├── logo.png
-│   ├── srila-prabhupada.png
-│   └── prabhupada-association.png
-│
-├── audio/
-│   └── (kirtan / chanting audio files)
-│
-└── videos/
-    └── (japa / lecture video files)
-```
-
----
-
 ## Tech Stack
 
 This project is intentionally built using simple, reliable technologies:
