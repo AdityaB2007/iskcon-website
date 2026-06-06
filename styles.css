@@ -41,3 +41,18 @@ body {
     font-weight: 700;
     letter-spacing: 0.2px;
 }
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 14px;
+}
+
+.navbar a {
+    color: #5a3e1f;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 6px 10px;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+}
