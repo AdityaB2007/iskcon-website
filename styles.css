@@ -1,17 +1,15 @@
-/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-/* GLOBAL STYLES */
-
-/* NAVBAR */
-
-/* HERO SECTION */
-
-/* CARDS */
-
-/* BUTTONS */
-
-/* FORMS */
-
-/* FOOTER */
-
-/* MEDIA QUERIES */
+body {
+    font-family: 'Verdana', 'sans-serif';
+    background-color: #f7f1e6;
+    color: #2b2621;
+    line-height: 1.7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
