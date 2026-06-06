@@ -96,3 +96,10 @@ body {
     align-items: center;
     text-align: center;
 }
+
+.hero-image img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 18px;
+    box-shadow: 0 12px 28px rgba(70, 52, 30, 0.14);
+}
