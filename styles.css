@@ -137,10 +137,21 @@ body {
     color: #9b5520;
 }
 
-.hero-buttons a:first-child:hover {
+.hero-buttons a:first-child:hover,
+.hero-buttons a:first-child:focus {
   background-color: #7f4518;
 }
 
-.hero-buttons a:last-child:hover {
+.hero-buttons a:last-child:hover,
+.hero-buttons a:last-child:focus {
   background-color: #f7e8d6;
+}
+
+.hero-buttons a:focus {
+  outline: 3px solid #d6a35d;
+  outline-offset: 3px;
+}
+
+.hero-buttons a:active {
+  transform: translateY(1px);
 }
