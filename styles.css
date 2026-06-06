@@ -103,3 +103,12 @@ body {
     border-radius: 18px;
     box-shadow: 0 12px 28px rgba(70, 52, 30, 0.14);
 }
+
+.image-caption {
+    margin-top: 12px;
+    max-width: 280px;
+    color: #6a5744;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    font-style: italic;
+}
