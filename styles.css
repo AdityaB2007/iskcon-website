@@ -61,3 +61,10 @@ body {
 .navbar a.active {
     background-color: #f1e4cf;
 }
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between:
+    gap: 40px;
+}
