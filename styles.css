@@ -56,3 +56,8 @@ body {
     border-radius: 8px;
     transition: background-color 0.2s ease;
 }
+
+.navbar a:hover,
+.navbar a.active {
+    background-color: #f1e4cf;
+}
