@@ -126,3 +126,13 @@ body {
     font-weight: 600;
     transition: all 0.2s ease;
 }
+
+.hero-buttons a:first-child {
+    background-color: #9b5520;
+    color: white;
+}
+
+.hero-buttons a:last-child {
+    border: 1px solid #9b5520;
+    color: #9b5520;
+}
