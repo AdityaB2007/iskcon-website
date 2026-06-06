@@ -118,3 +118,11 @@ body {
     gap: 14px;
     margin-top: 24px;
 }
+
+.hero-buttons a {
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
