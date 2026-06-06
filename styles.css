@@ -136,3 +136,11 @@ body {
     border: 1px solid #9b5520;
     color: #9b5520;
 }
+
+.hero-buttons a:first-child:hover {
+  background-color: #7f4518;
+}
+
+.hero-buttons a:last-child:hover {
+  background-color: #f7e8d6;
+}
