@@ -226,20 +226,20 @@ tbody:nth-child(even) {
     background-color: #fffaf2;
 }
 
-.contact-form-section form {
+.contact-form form {
     display: flex;
     flex-direction: column;
     gap: 14px;
     margin-top: 20px;
 }
 
-.contact-form-section label {
+.contact-form label {
     font-weight: 600;
     color: #5a3e1f;
 }
 
-.contact-form-section input,
-.contact-form-section textarea {
+.contact-form input,
+.contact-form textarea {
     width: 100%;
     padding: 12px 14px;
     border: 1px solid #d8c4a5;
@@ -249,17 +249,17 @@ tbody:nth-child(even) {
     background-color: #fffaf1;
 }
 
-.contact-form-section input:focus,
-.contact-form-section textarea:focus {
+.contact-form input:focus,
+.contact-form textarea:focus {
   outline: 3px solid #d6a35d;
   border-color: #9b5520;
 }
 
-.contact-form-section textarea {
+.contact-form textarea {
     resize: vertical;
 }
 
-.contact-form-section {
+.contact-form {
     align-self: flex-start;
     padding: 12px 22px;
     border: none;
@@ -271,7 +271,7 @@ tbody:nth-child(even) {
     cursor: pointer;
 }
 
-.contact-form-section button:hover,
-.contact-form-section button:focus {
+.contact-form button:hover,
+.contact-form button:focus {
     background-color: #7f4518;
 }
