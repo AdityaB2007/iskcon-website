@@ -164,6 +164,7 @@ main {
 
 .page-intro,
 .about-section,
+.daily-programs,
 .schedule-section,
 .visitor-info,
 .resources-section,
@@ -179,6 +180,11 @@ main {
     border: 1px solid #eadcc3;
     border-radius: 20px;
     box-shadow: 0 10px 24px rgba(70, 52, 30, 0.05);
+}
+
+.daily-programs h2,
+.schedule-section h2 {
+    margin-bottom: 24px;
 }
 
 .page-intro {
@@ -204,15 +210,15 @@ table {
 }
 
 caption {
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     font-weight: 700;
     color: #9b5520;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
 }
 
 th,
 td {
-    padding: 14px;
+    padding: 18px 14px;
     text-align: left;
     border: 1px solid #eadcc3;
 }
