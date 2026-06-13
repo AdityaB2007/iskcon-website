@@ -225,3 +225,53 @@ th {
 tbody:nth-child(even) {
     background-color: #fffaf2;
 }
+
+.contact-form-section form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 20px;
+}
+
+.contact-form-section label {
+    font-weight: 600;
+    color: #5a3e1f;
+}
+
+.contact-form-section input,
+.contact-form-section textarea {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #d8c4a5;
+    border-radius: 10px;
+    font: inherit;
+    color: #2b2621;
+    background-color: #fffaf1;
+}
+
+.contact-form-section input:focus,
+.contact-form-section textarea:focus {
+  outline: 3px solid #d6a35d;
+  border-color: #9b5520;
+}
+
+.contact-form-section textarea {
+    resize: vertical;
+}
+
+.contact-form-section {
+    align-self: flex-start;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 10px;
+    background-color: #9b5520;
+    color: white;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.contact-form-section button:hover,
+.contact-form-section button:focus {
+    background-color: #7f4518;
+}
