@@ -156,6 +156,32 @@ body {
   transform: translateY(1px);
 }
 
+.schedule-preview a,
+.visit-section a {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 12px 20px;
+  background-color: #9b5520;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.schedule-preview a:hover,
+.visit-section a:hover,
+.schedule-preview a:focus,
+.visit-section a:focus {
+  background-color: #7f4518;
+}
+
+.schedule-preview a:focus,
+.visit-section a:focus {
+  outline: 3px solid #d6a35d;
+  outline-offset: 3px;
+}
+
 main {
     flex: 1;
     width: min(100% - 32px, 1100px);
