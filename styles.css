@@ -196,3 +196,32 @@ main {
     margin: 0 auto;
     color: #4a4036;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 24px;
+}
+
+caption {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #9b5520;
+    margin-bottom: 16px;
+}
+
+th,
+td {
+    padding: 14px;
+    text-align: left;
+    border: 1px solid #eadcc3;
+}
+
+th {
+    background-color: #f3e6d2;
+    color: #5a3e1f;
+}
+
+tbody:nth-child(even) {
+    background-color: #fffaf2;
+}
