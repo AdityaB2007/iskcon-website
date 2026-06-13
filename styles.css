@@ -155,3 +155,44 @@ body {
 .hero-buttons a:active {
   transform: translateY(1px);
 }
+
+main {
+    flex: 1;
+    width: min(100% - 32px, 1100px);
+    margin: 0 auto;
+}
+
+.page-intro,
+.about-section,
+.schedule-section,
+.visitor-info,
+.resources-section,
+.contact-info,
+.contact-form-section,
+.gallery-section,
+.welcome-section,
+.schedule-preview,
+.visit-section {
+    margin: 40px 0;
+    padding: 36px 32px;
+    background-color: #fffdf8;
+    border: 1px solid #eadcc3;
+    border-radius: 20px;
+    box-shadow: 0 10px 24px rgba(70, 52, 30, 0.05);
+}
+
+.page-intro {
+    text-align: center;
+}
+
+.page-intro h1 {
+    color: #9b5520;
+    font-size: 2.4rem;
+    margin-bottom: 12px;
+}
+
+.page-intro p {
+    max-width: 720px;
+    margin: 0 auto;
+    color: #4a4036;
+}
