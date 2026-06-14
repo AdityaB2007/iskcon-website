@@ -357,6 +357,20 @@ tbody:nth-child(even) {
   outline-offset: 2px;
 }
 
+.video-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.video-wrapper iframe {
+    width: 560px;
+    height: 315px;
+    max-width: 100%;
+    border: none;
+    border-radius: 12px;
+}
+
 footer {
   margin-top: auto;
   padding: 24px;
