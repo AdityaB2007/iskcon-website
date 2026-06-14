@@ -356,3 +356,13 @@ tbody:nth-child(even) {
   outline: 3px solid #d6a35d;
   outline-offset: 2px;
 }
+
+footer {
+  margin-top: auto;
+  padding: 24px;
+  text-align: center;
+  background-color: #f3e6d2;
+  border-top: 1px solid #d8c4a5;
+  color: purple;
+  font-size: 0.95rem;
+}
