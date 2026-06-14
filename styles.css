@@ -341,3 +341,18 @@ tbody:nth-child(even) {
 .contact-form button:focus {
     background-color: #7f4518;
 }
+
+.contact-info a {
+  color: #1c6ed8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.contact-info a:focus {
+  outline: 3px solid #d6a35d;
+  outline-offset: 2px;
+}
