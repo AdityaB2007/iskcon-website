@@ -1,107 +1,86 @@
-## New Vraja Dham Website
+# New Vraja Dham Website
 
-This repository contains the official website for **New Vraja Dham** (est. 2025), a local ISKCON temple based in Baton Rouge, Louisiana.
+Official website for **New Vraja Dham**, an ISKCON-affiliated bhakti-yoga center located in Baton Rouge, Louisiana.
 
-The purpose of this website is to provide a simple, welcoming, and informative platform for visitors, devotees, and the local community to learn about temple activities and Krishna consciousness.
-
----
-
-## About the Center
-
-New Vraja Dham serves as a spiritual center dedicated to the practice of **bhakti-yoga**, following the teachings of the Gaudiya Vaishnava tradition as presented by A.C. Bhaktivedanta Swami Srila Prabhupada.
-
-The center hosts:
-- Kirtan (congregational chanting of the Holy Name)
-- Discourses on texts such as Bhagavad-gītā and Śrīmad-Bhāgavatam
-- Instrumental lessons
-- Festivals and community gatherings
-- Prasadam (sanctified vegetarian meals offered to the Lord)
+The website serves as a central resource for visitors, devotees, students, and members of the local community to learn about temple programs, devotional practices, educational resources, and upcoming events.
 
 ---
 
-## Project Status
+## About New Vraja Dham
 
-This website is currently in active development and is **not yet production-ready**.
+New Vraja Dham is dedicated to sharing the teachings of Lord Krishna through the practice of **bhakti-yoga**, following the Gaudiya Vaishnava tradition as presented by **His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda**, Founder-Ācārya of the International Society for Krishna Consciousness (ISKCON).
 
-The current version focuses on building a clean layout, consistent design system, and foundational structure using HTML and CSS.
+Regular activities include:
 
----
-
-## Design Approach
-
-This project emphasizes:
-
-- A calm, devotional visual style using warm earthy tones  
-- Consistent spacing, layout rhythm, and typography  
-- Minimalism and readability over visual clutter  
-- A homepage-focused visual experience, with simpler internal pages  
-- Gradual refinement of UI/UX through iterative improvements  
+- Congregational kīrtana
+- Japa meditation
+- Bhagavad-gītā and Śrīmad-Bhāgavatam discussions
+- Instrumental and devotional music instruction
+- Community outreach programs
+- Festivals and special observances
+- Prasādam distribution
 
 ---
 
-## Tech Stack
+## Website Features
 
-This project is intentionally built using simple, reliable technologies:
+The website currently includes:
 
-- HTML (structure)
-- CSS (layout and styling)
-- JavaScript (potentially in the future)
+- Home page
+- About page
+- Programs and schedule page
+- Resources page
+- Contact page
+- Gallery page
+- Mobile-friendly layouts
+- SEO (Search Engine Optimization) and OG (Open Graph) metadata
+- Contact form integration
 
-As of now, frameworks are not in use in order to:
-- strengthen foundational understanding
-- keep the site lightweight and fast
-- maintain full control over design decisions 
+---
+
+## Technology Stack
+
+- HTML5 (webpage structure)
+- CSS3 (webpage styling)
+- Formspree (contact form handling)
+
+The project intentionally uses a lightweight technology stack to maximize accessibility, performance, maintainability, and ease of future updates.
 
 ---
 
 ## Running Locally
 
-No setup is required.
+Clone the repository and open:
 
-Simply open the homepage in your browser: <br>
-`index.html`
+```text
+index.html
+```
+
+in your preferred web browser.
+
+No build process or additional dependencies are required.
 
 ---
 
-## Goals
+## Project Goals
 
 The website aims to:
 
-- Provide clear information about temple programs and events  
-- Offer a welcoming introduction to Krishna consciousness  
-- Include helpful resources such as audio and video content  
-- Create a peaceful and accessible user experience  
-- Serve as a long-term platform for community engagement  
-
----
-
-## Learning Objectives
-
-This project is also a hands-on learning experience in frontend development.
-
-Focus areas include:
-- Writing clean, semantic HTML  
-- Building CSS layouts using Flexbox  
-- Designing consistent spacing systems  
-- Creating reusable component styles  
-- Understanding how design decisions affect user experience (UX)
-
----
-
-## Contributing
-
-This project is being developed as a service effort for the local devotional community.
-
-Suggestions, improvements, and feedback are welcome.
+- Introduce visitors to Krishna consciousness
+- Provide clear information about temple programs and activities
+- Share devotional and educational resources
+- Encourage community participation and engagement
+- Create an accessible and welcoming online presence for the center
 
 ---
 
 ## Acknowledgements
 
-All glories to Srila Prabhupada and the devotees who have dedicated their lives to spreading the teachings of Lord Krishna.
+Special thanks to the New Vraja Dham community for their moral support, encouragement, and continued service.<br>
+All glories to Śrīla Prabhupāda.
 
 ---
 
 ## License
 
-This project is licensed under the terms specified in the `LICENSE` file.
+This project is distributed under the terms specified in the accompanying LICENSE file.
