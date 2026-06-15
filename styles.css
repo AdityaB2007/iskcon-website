@@ -289,7 +289,7 @@ th {
     color: #5a3e1f;
 }
 
-tbody:nth-child(even) {
+tbody tr:nth-child(even) {
     background-color: #fffaf2;
 }
 
@@ -326,7 +326,7 @@ tbody:nth-child(even) {
     resize: vertical;
 }
 
-.contact-form {
+.contact-form button {
     align-self: flex-start;
     padding: 12px 22px;
     border: none;
@@ -336,6 +336,49 @@ tbody:nth-child(even) {
     font: inherit;
     font-weight: 600;
     cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-methods {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-top: 32px;
+}
+
+.contact-item {
+    background-color: #fffaf1;
+    border: 1px solid #eadcc3;
+    border-radius: 14px;
+    padding: 22px;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    box-shadow: 0 6px 14px rgba(70, 52, 30, 0.05);
+}
+
+.contact-label {
+    font-weight: 700;
+    color: #9b5520;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    font-size: 0.9rem;
+}
+
+.contact-item a {
+    color: #1c6ed8;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.contact-item a:hover {
+    text-decoration: underline;
 }
 
 .contact-form button:hover,
