@@ -458,16 +458,6 @@ tbody tr:nth-child(even) {
     color: #7f4518;
 }
 
-footer {
-  margin-top: auto;
-  padding: 24px;
-  text-align: center;
-  background-color: #f3e6d2;
-  border-top: 1px solid #d8c4a5;
-  color: purple;
-  font-size: 0.95rem;
-}
-
 .social-link {
     display: inline-flex;
     align-items: center;
@@ -484,4 +474,126 @@ footer {
 
 .social-link i {
     font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 16px;
+    padding: 18px 20px;
+    text-align: center;
+  }
+
+  .navbar ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  main {
+    width: min(100% - 20px, 1100px);
+  }
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    margin: 28px 0;
+    padding: 36px 24px;
+  }
+
+  .hero-text h1,
+  .page-intro h1 {
+    font-size: 2rem;
+  }
+
+  .hero-buttons {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .page-intro,
+  .about-section,
+  .daily-programs,
+  .schedule-section,
+  .visitor-info,
+  .resources-section,
+  .contact-info,
+  .contact-form,
+  .gallery-section,
+  .welcome-section,
+  .schedule-preview,
+  .visit-section {
+    margin: 28px 0;
+    padding: 28px 20px;
+  }
+
+  .about-nav ul {
+    justify-content: center;
+  }
+
+  .contact-methods {
+    flex-direction: column;
+  }
+
+  .contact-item {
+    min-width: 100%;
+  }
+
+  .book-list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+
+  .video-wrapper iframe {
+    width: 100%;
+    height: 240px;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  footer {
+    padding: 22px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar ul {
+    flex-direction: column;
+  }
+
+  .logo span {
+    font-size: 1rem;
+  }
+
+  .hero-text h1,
+  .page-intro h1 {
+    font-size: 1.75rem;
+  }
+
+  .book-list {
+    grid-template-columns: 1fr;
+  }
+
+  .book-card img {
+    max-width: 170px;
+    height: 245px;
+  }
+
+  .video-wrapper iframe {
+    height: 210px;
+  }
+}
+
+footer {
+  margin-top: auto;
+  padding: 24px;
+  text-align: center;
+  background-color: #f3e6d2;
+  border-top: 1px solid #d8c4a5;
+  color: purple;
+  font-size: 0.95rem;
 }
