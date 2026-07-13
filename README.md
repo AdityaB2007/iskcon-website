@@ -76,7 +76,8 @@ The website aims to:
 
 ## Acknowledgements
 
-Special thanks to the New Vraja Dham community for their moral support, encouragement, and continued service.<br>
+Special thanks to ISKCON Baton Rouge center for their moral support and encouragement in this endeavor,
+as well as their continued service to the community.<br>
 All glories to Śrīla Prabhupāda.
 
 ---
