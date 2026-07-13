@@ -77,8 +77,7 @@ The website aims to:
 ## Acknowledgements
 
 Special thanks to ISKCON Baton Rouge center for their moral support and encouragement in this endeavor,
-as well as their continued service to the community.<br>
-All glories to Śrīla Prabhupāda.
+as well as their continued service to the community. All glories to Śrīla Prabhupāda and all devotees.
 
 ---
 
